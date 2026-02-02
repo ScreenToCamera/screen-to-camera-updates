@@ -1,6 +1,6 @@
 {
-  "version": "99.0.0",
+  "version": "1.0.0",
   "mandatory": false,
-  "notes": "Prueba de sistema de actualizaciones",
+  "notes": "Correcciones y mejoras",
   "url": "https://github.com/ScreenToCamera/screen-to-camera-updates/releases/download/v0.0.1-test/prueba.txt"
 }
